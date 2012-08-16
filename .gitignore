@@ -1,5 +1,4 @@
-
-Routine/_ReSharper.Routine/
-Routine/bin/
 *.dll
-Routine/obj/
+_ReSharper.Routine/
+bin/
+obj/
