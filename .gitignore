@@ -1,0 +1,5 @@
+
+Routine/_ReSharper.Routine/
+Routine/bin/
+*.dll
+Routine/obj/
